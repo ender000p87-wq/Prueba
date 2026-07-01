@@ -47,7 +47,7 @@ global.DATABASE = global.db
 let databaseShutdownStarted = false
 global.authCredsFlushers ||= new Set()
 // Este plugin se importa después de settings.js para que encuentre global.* disponible.
-const { RubyJadiBot } = await import('./plugins/subbots/jadibot-serbot.js')
+constconst { ObitoJadiBot } = await import('./plugins/subbots/obito-serbot.js')
 function createDebouncedSaveCreds(saveCreds, delayMs = 4000) {
 let timer
 let pending = false
@@ -117,7 +117,7 @@ global.__bannerShown = true
 console.clear()
 console.log(bannerASCII)
 console.log(chalk.bold.hex('#FF66C4')('—🍦ܶ߭ຼ ᪲  ۪  ︵ “Cada comienzo es una nueva oportunidad. Gracias por elegirme, daré lo mejor de mí para ayudarte.” ︵ ࣪'))
-cfonts.say('Ruby hoshino Bot', { font: 'chrome', align: 'center', gradient: ['#ff4fcb', '#ff77ff'], transition: true, env: 'node' })
+cfontcfonts.say('ObitoBot MD', { font: 'chrome', align: 'center', gradient: ['#ff4fcb', '#ff77ff'], transition: true, env: 'node' })
 console.log(boxen(chalk.bold.hex('#9900ff')('୨୧ㅤ۫ Proyecto iniciado con Exito. .ᐟ'), { padding: 1, margin: 1, borderStyle: 'double', borderColor: 'magenta', float: 'center' }))
 }
 showBanner()
