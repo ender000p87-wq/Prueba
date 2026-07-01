@@ -15,20 +15,7 @@ global.botNumber = ''
 
 global.owner = [
 // <-- Número @s.whatsapp.net -->
-  ['18093519169', '⏤͟͞ू⃪ ፝͜⁞𝘿𝙞𝙤𝙣𝙚𝙞𝙗𝙞-ʳⁱᵖ ִֶ ࣪˖ ִֶָ🐇་༘', true],
-  ['573235915041', '⏤͟͞ू⃪ ፝͜𝐅ꫀl͟𝐢𝘅 o͜͡𝗳𝐜⁞་༘', true],
-  ['18096758983', '⟆⃝༉⃟⸙ ᯽ N͙e͙v͙i͙-D͙e͙v͙ ⌗⚙️࿐', true],
-  ['573508941325', 'FELIX-DEV', true],
-  ['5216671548329', 'ू⃪ ꒰˘͈ᵕ ˘͈ 𝑳𝒆𝒈𝒏𝒂-𝒄𝒉𝒂𝒏 🪽 ꒱𖦹', true],
-  ['573114910796', 'Arlette 🎀', true],
-
-// <-- Número @lid -->
-  ['122544745111646', 'Dioneibi', true],
-  ['236391074132098', 'NEOTOKIO', true],
-  ['260081845334105', 'nevi', true],
-  ['58566677377081', 'legna', true],
-  ['177266856313074', 'speed3xz', true]
-]
+  ['18092192504', '⏤͟͞ू⃪ ፝͜⁞𝘿𝙞𝙤𝙣𝙚𝙞𝙗𝙞-ʳⁱᵖ ִֶ ࣪˖ ִֶָ🐇་༘', true],
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -43,7 +30,7 @@ global.baileys = 'V 6.7.16'
 global.languaje = 'Español'
 global.vs = '2.2.0'
 global.nameqr = 'OBITOBOT-MD'
-global.namebot = '꒰ 🥥 ꒱ؘ 𝙍𝙪𝙗𝙮-𝙃𝙤𝙨𝙝𝙞𝙣𝙤-𝘽𝙤𝙩 ♪ ࿐ ࿔*:･ﾟ'
+globaglobal.botname = 'Obito Uchiha Bot'
 global.ObitoSessions = 'ObitoSessions'
 global.jadi = 'ObitoJadiBots'
 global.ObitoJadibts = true
@@ -58,13 +45,13 @@ global.baileysSocketConfig = {
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '⏤̛̣̣̣̣̣̣̣̣̣̣̣͟͟͞͞⏤͟͟͞͞🍭𝐑υׁׅ𝐛𝐲 𝐇ᨵׁׅׅ𝐬𝐡𝐢𝐧ᨵׁׅׅ ૮(˶ᵔᵕᵔ˶)ა'
-global.botname = ' ࣪☀ ࣭𝗥𝘂𝗯𝘆 𝗛𝗼𝘀𝗵𝗶𝗻𝗼 𝗕𝗼𝘁࣪ 𝟹𝟹 ✿'
+globaglobal.packname = 'Obito Uchiha'
+globaglobal.botname = 'Obito Uchiha Bot'
 global.wm = '‧˚꒰🍷꒱ ፝͜⁞R͢ᴜʙʏ-H͢ᴼ꯭s፝֟ʜɪɴᴏ-𝘉𝘰𝘵-𝑴𝑫✰⃔⃝🦋'
-global.author = 'Made By 𐔌Dioneibi-rip ͡꒱ ۫'
-global.dev = '⌬ Modified by: Dioneibi-rip ⚙️💻 '
-global.textbot = '⏤͟͞ू⃪ 𝑹𝒖𝒃𝒚-𝐻𝒐𝒔𝒉𝒊𝒏𝒐🌸⃝𖤐 • 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 ᴰⁱᵒⁿᵉⁱᵇⁱ⁻ʳⁱᵖ'
-global.etiqueta = 'ˑ 𓈒 𐔌 D͙i͙o͙n͙e͙i͙b͙i͙-r͙i͙p͙ ͡꒱ ۫'
+global.author = 'Made By 𐔌 JOSE ESTEBAN ͡꒱ ۫'
+global.dev = '⌬ Modified by: JOSE ESTEBAN'
+global.textbot = ''
+global.etiqueta = 'ˑ 𓈒 𐔌 JOSE ESTEBAN ͡꒱ ۫'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -122,8 +109,8 @@ global.fakeIconUrls = [
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.creador = 'Wa.me/18093519169'
-global.asistencia = 'Wa.me/18093519169'
+global.creador = 'Wa.me/18092192504'
+global.asistencia = 'Wa.me/18092192504'
 global.namechannel = '⏤͟͞ू⃪፝͜⁞⟡『 𝐓͢ᴇ𝙖፝ᴍ⃨ 𝘾𝒉꯭𝐚𝑛𝑛𝒆𝑙: 𝑹ᴜ⃜ɓ𝑦-𝑯ᴏ𝒔𝑯𝙞꯭𝑛𝒐 』࿐⟡'
 global.namechannel2 = '⟡『 𝐓𝐞𝐚𝐦 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: 𝑹𝒖𝒃𝒚-𝑯𝒐𝒔𝒉𝒊𝒏𝒐 』⟡'
 global.namegrupo = '⏤͟͞ू⃪ 𝑹𝒖𝒃𝒚-𝑯𝒐𝒔𝒉𝒊𝒏𝒐-𝐵ot ⌬⃝𓆩⚘𓆪 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥'
@@ -136,9 +123,7 @@ global.canalNombreM = [global.namechannel, global.namechannel2]
 global.rwait = '🕒'
 global.done = '✅'
 global.error = '✖️'
-global.msm = '⚠︎'
-global.emoji = '🍨'
-global.emoji2 = '🍭'
+global.msm = ' = '🍭'
 global.emoji3 = '🌺'
 global.emoji4 = '💗'
 global.emoji5 = '🍡'
