@@ -42,11 +42,11 @@ global.libreria = 'Baileys'
 global.baileys = 'V 6.7.16'
 global.languaje = 'Español'
 global.vs = '2.2.0'
-global.nameqr = 'Ruby-Hoshino-Bot-MD'
+global.nameqr = 'OBITOBOT-MD'
 global.namebot = '꒰ 🥥 ꒱ؘ 𝙍𝙪𝙗𝙮-𝙃𝙤𝙨𝙝𝙞𝙣𝙤-𝘽𝙤𝙩 ♪ ࿐ ࿔*:･ﾟ'
-global.Rubysessions = 'RubySessions'
-global.jadi = 'RubyJadiBots'
-global.RubyJadibts = true
+global.ObitoSessions = 'ObitoSessions'
+global.jadi = 'ObitoJadiBots'
+global.ObitoJadibts = true
 global.subbotlimitt = 22
 
 global.baileysSocketConfig = {
